@@ -3,6 +3,7 @@
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Screenshots
+
 ![App Screenshot](https://i.ibb.co/Px4TbY5/Screenshot-2023-04-26-at-14-32-01-Vueflix.png)
 
 ## Recommended IDE Setup
